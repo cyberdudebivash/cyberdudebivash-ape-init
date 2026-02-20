@@ -15,7 +15,7 @@ export default function Home() {
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-blue-600 text-white gap-2 hover:bg-blue-700 text-sm sm:text-base h-12 px-8 font-bold"
-            href="https://cyberdudebivash-ape-init.vercel.app"
+            href="/dashboard"
             target="_blank"
           >
             Launch Dashboard
